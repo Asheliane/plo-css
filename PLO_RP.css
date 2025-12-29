@@ -45,8 +45,8 @@ text-align:justify; font-size:12px; font-family:Lucida Grande;
 margin:10px auto; width:495px; 
 }
 .msgPLO2 {
-margin:auto; width:390px; padding:10px; border-left:0px solid; border-right:0px solid; 
-text-align:center; font-size:18px; font-family:"Bebas Neue";
+margin:auto; width:390px; padding:20px; border-left:0px solid; border-right:0px solid; 
+text-align:center; font-size:22px; font-family:"Bebas Neue";
 }
 .btmPLO {
 width:510px; text-align:center;
@@ -119,5 +119,6 @@ transform:scale(0); -webkit-transform:scale(0); transition:transform ease 0.65s;
 .PLOII:hover .cdtPLOII {
 transform:scale(1); -webkit-transform:scale(1);
 }
+
 
 
