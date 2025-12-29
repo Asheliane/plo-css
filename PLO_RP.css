@@ -51,7 +51,7 @@ margin:10px auto; width:495px;
 }
 .msgPLOII {
 margin:auto; width:390px; padding:10px; border-left:5px solid; border-right:5px solid; 
-text-align:justify; font-size:12px; font-family: "Bebas Neue", sans-serif;;
+text-align:justify; font-size:12px; font-family: "Bebas Neue", sans-serif;
 }
 .btmPLOII {
 width:510px; text-align:center;
@@ -67,3 +67,4 @@ transform:scale(0); -webkit-transform:scale(0); transition:transform ease 0.65s;
 transform:scale(1); -webkit-transform:scale(1);
 }
 }
+
